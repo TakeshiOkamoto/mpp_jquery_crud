@@ -1,0 +1,2 @@
+class JqueryCrudDataBk < ApplicationRecord
+end

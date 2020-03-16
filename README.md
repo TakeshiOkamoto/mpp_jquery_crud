@@ -4,7 +4,7 @@ DEMO
 [https://www.petitmonte.com/rails-demo/jquery_crud](https://www.petitmonte.com/rails-demo/jquery_crud)  
   
 解説  
-[https://www.petitmonte.com/ruby/jquery_crud.html](https://www.petitmonte.com/ruby/jquery_crud.html) ※準備中
+[https://www.petitmonte.com/ruby/jquery_crud.html](https://www.petitmonte.com/ruby/jquery_crud.html) 
    
 [mpp_jquery_crudの意味]  
 mpp = My Practice Project  

@@ -1,4 +1,4 @@
-# Rails + JQuery + AjaxでCRUDのサンプルプロジェクト
+# Rails + JQuery + AjaxでCRUDのサンプルプロジェクト 
   
 DEMO    
 [https://www.petitmonte.com/rails-demo/jquery_crud](https://www.petitmonte.com/rails-demo/jquery_crud)  
